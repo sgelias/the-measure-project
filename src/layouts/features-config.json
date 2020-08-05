@@ -1,0 +1,48 @@
+{
+    "layout-config": [
+        {
+            "structure-label": "Basidiospores",
+            "traits": [
+                {
+                    "label": "large",
+                    "type": "float"
+                },
+                {
+                    "label": "wide",
+                    "type": "float"
+                }
+            ]
+        },
+        {
+            "structure-label": "Pores",
+            "traits": [
+                {
+                    "label": "pores-per-mm",
+                    "type": "float"
+                },
+                {
+                    "label": "diameter",
+                    "type": "float"
+                }
+            ]
+        },
+        {
+            "structure-label": "Dissepiment",
+            "traits": [
+                {
+                    "label": "thick (10x)",
+                    "type": "float"
+                }
+            ]
+        },
+        {
+            "structure-label": "Generative-hiphae",
+            "traits": [
+                {
+                    "label": "diameter",
+                    "type": "float"
+                }
+            ]
+        }
+    ]
+}
